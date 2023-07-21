@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.72ebd1e8.css","mappings":"AAAA,OACI,iBAAkB,CAClB,QAAS,CACV,OACH","sources":["components/Alert.css"],"sourcesContent":[".alert{\n    position: absolute;\n    right: 1%;\n   top: 10%;\n}"],"names":[],"sourceRoot":""}
